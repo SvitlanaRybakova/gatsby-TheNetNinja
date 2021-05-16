@@ -2,6 +2,7 @@
 title: The Dojo Coffee House
 stack: HTML & CSS
 slug: the-dojo-coffee-house
+date: 2021-01-01T00:00:00+00:00
 ---
 
 **Lorem ninja ipsum**
