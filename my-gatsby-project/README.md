@@ -103,3 +103,10 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+
+
+  ## Plugins: 
+  - For optimaze img use **gatsby-plugin-image**
+  - Find relative way use **gatsby-source-filesystem**
+  - Translate md to html use **gatsby-transformer-remark**
